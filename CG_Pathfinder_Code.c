@@ -70,7 +70,7 @@ void drawstring(int x, int y, char *string,void *font)
     glColor3f(1,1,1);
 	output(5,160,"DELHI TECHNOLOGICAL UNIVERSITY");
 	glColor3f(1,1,1);
-	output(10.0,150,"DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING");
+	output(10.0,150,"DEPARTMENT OF APPLIED MATHEMATICS");
 	glColor3f(1,0,1);
 	output(60,130,"A Mini Project On:-");
 	glColor3f(0,1,0.5);
@@ -82,11 +82,11 @@ void drawstring(int x, int y, char *string,void *font)
 	glVertex2f(50,98);
 	glEnd();
 	glColor3f(1,0,0);
-	output(40,90,"Abhinav Gupta ( 2K18/CO/013 )  and Abhiraj Singh Rathore ( 2K18/CO/016 ) ");
+	output(40,90,"Uddeshya Khanna ( 2K18/MC/117 ) and Vishrut Tewatia ( 2K18/MC/126 ) ");
 
 	output(40,80,"");
 	glColor3f(1,0,1);
-	output(40,60,"Under the Guidence of :");
+	output(40,60,"Under the Guidance of :");
 	glBegin(GL_LINES);
 	glVertex2f(40,58);
 	glVertex2f(98,58);
@@ -94,9 +94,9 @@ void drawstring(int x, int y, char *string,void *font)
 	glColor3f(1,0,0);
 	output(40,50,"");
 	glColor3f(1,0,0);
-	drawstring(72,50,"Lecturer,Dept. of CSE",GLUT_BITMAP_HELVETICA_12);
+	drawstring(72,50,"Asst. Professor,Dept. of MCE",GLUT_BITMAP_HELVETICA_12);
 	glColor3f(1,0,0);
-	output(70,40,"Prof. Sanjay Saxena");
+	output(70,40,"Ms. Trasha Gupta");
 	glColor3f(1,0,0);
 	output(40,30,"");
 	glFlush();
