@@ -120,7 +120,7 @@ void startscreen()
 
 glClear(GL_COLOR_BUFFER_BIT);
 glColor3f(0.0,1.0,0.0);
-output(25,140,"WELCOME TO THE PATH FINDER : THE GAME");
+output(25,140,"WELCOME TO FIND-THE-WAY-OUT: PATHFINDER GAME");
 output(50,100,"1.NEW GAME");
 output(50,80,"2.INSTRUCTIONS");
 output(50,60,"3.QUIT");
