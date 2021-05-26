@@ -1,4 +1,4 @@
-# CG_MTE_Pathfinder
+# CG_MTE_FindTheWayOut
 
 1. Setup OpenGL framework in the IDE you have.
 
